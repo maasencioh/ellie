@@ -11,7 +11,7 @@
     "dev": "preact watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Miguel Asencio",
   "license": "ISC",
   "eslintConfig": {
     "extends": "eslint-config-synacor"
