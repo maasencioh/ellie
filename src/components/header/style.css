@@ -20,6 +20,11 @@
 	color: #FFF;
 }
 
+.header h1 a {
+	text-decoration: none;
+	color: #FFF;
+}
+
 .header nav {
 	float: right;
 	font-size: 100%;
